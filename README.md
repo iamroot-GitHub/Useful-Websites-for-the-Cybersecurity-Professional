@@ -5,3 +5,5 @@
 - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
 - [MITRE ATT&CK®](https://attack.mitre.org/)
 - [D3FEND™](https://d3fend.mitre.org/)
+## Exploit Database
+ - [Exploit Database](https://www.exploit-db.com/)
