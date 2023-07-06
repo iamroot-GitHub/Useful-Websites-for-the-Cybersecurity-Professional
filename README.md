@@ -15,6 +15,9 @@
  - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## CyberSeek
  - [CyberSeek](https://www.cyberseek.org/)
+## News
+ - [Hacker News](https://news.ycombinator.com/news)
+ - [MorningStar Security](https://morningstarsecurity.com/)
 ## Linux
  - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [Kali Tools](https://www.kali.org/tools/)
