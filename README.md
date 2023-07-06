@@ -4,6 +4,7 @@
  - [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
 ## MITRE
 - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+- [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/index.html)
 - [MITRE ATT&CK®](https://attack.mitre.org/)
 - [D3FEND™](https://d3fend.mitre.org/)
 ## Exploit Database
