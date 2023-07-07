@@ -15,6 +15,8 @@
  - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## CyberSeek
  - [CyberSeek](https://www.cyberseek.org/)
+## OSINT Framework
+ - [OSINT Framework](https://osintframework.com/)
 ## News
  - [Hacker News](https://news.ycombinator.com/news)
  - [MorningStar Security](https://morningstarsecurity.com/)
