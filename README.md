@@ -24,3 +24,4 @@
  - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [Kali Tools](https://www.kali.org/tools/)
  - [AWK command in Unix/Linux with examples](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+ - [Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
