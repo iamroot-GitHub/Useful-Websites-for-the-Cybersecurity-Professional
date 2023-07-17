@@ -17,6 +17,8 @@
  - [CyberSeek](https://www.cyberseek.org/)
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
+## Penetration Testing
+ - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 ## News
  - [Hacker News](https://news.ycombinator.com/news)
  - [MorningStar Security](https://morningstarsecurity.com/)
