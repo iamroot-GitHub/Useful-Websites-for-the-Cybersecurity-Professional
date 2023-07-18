@@ -39,3 +39,4 @@
  - [Kali Tools](https://www.kali.org/tools/)
  - [AWK command in Unix/Linux with examples](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
  - [Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
+ - [Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
