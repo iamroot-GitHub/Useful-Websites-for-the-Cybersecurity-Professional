@@ -19,6 +19,7 @@
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+ - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 ## News
  - [Hacker News](https://news.ycombinator.com/news)
  - [MorningStar Security](https://morningstarsecurity.com/)
