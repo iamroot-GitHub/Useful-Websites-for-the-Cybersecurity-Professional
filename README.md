@@ -35,9 +35,8 @@
  - [Hacker News](https://news.ycombinator.com/news)
  - [MorningStar Security](https://morningstarsecurity.com/)
 ## Linux
- - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
- - [Kali Tools](https://www.kali.org/tools/)
- - [AWK command in Unix/Linux with examples](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
- - [Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
- - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
+ - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)eks.org/introduction-to-kali-linux/?ref=shm)
+ - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+ - [Kali Tools](https://www.kali.org/tools/)
+ - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
