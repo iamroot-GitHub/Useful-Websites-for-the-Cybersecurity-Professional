@@ -40,3 +40,5 @@
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [KALI - Kali Tools](https://www.kali.org/tools/)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
+## Tools
+ - [CyberChef](https://cyberchef.org/)
