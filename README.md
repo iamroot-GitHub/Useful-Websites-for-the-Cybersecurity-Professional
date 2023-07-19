@@ -58,5 +58,6 @@
  - [Exploit Database](https://www.exploit-db.com/)
  - [HAK5](https://shop.hak5.org/)
  - [Hacking Articles - Comprehensive Guide on Dirb Tool](https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/)
+ - [Nmap](https://nmap.org/)
  - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/nmap-cheat-sheet/)
  - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/wireshark-cheat-sheet/)
