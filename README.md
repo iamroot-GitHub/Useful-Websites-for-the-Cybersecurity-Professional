@@ -58,7 +58,7 @@
 ## Tools
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CISCO Talos](https://talosintelligence.com/)
- - [CyberChef](https://cyberchef.org/)
+ - [CyberChef - A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages.](https://cyberchef.org/)
  - [Exploit Database](https://www.exploit-db.com/)
  - [FEODOtracker](https://feodotracker.abuse.ch/)
  - [HAK5](https://shop.hak5.org/)
