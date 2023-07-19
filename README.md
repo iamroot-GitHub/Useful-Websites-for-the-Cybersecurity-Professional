@@ -1,7 +1,6 @@
 # Useful-Websites-for-the-Cybersecurity-Professional
 ![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/b6a16e28892be67f6925781c448c361212706a91/Resources/UWFTCP_01.png)
 ## Table of Contents
----
 1.  [CISA](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#cybersecurity--infrastructure-security-agency-cisa)
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
 3.  [MITRE](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#mitre)
@@ -29,27 +28,27 @@
  - [Exploit Database](https://www.exploit-db.com/)
 ## Lockheed Martin
  - [Cyber Kill Chain®](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
-## SysAdmin, Audit, Network, and Security (SANS) Institue
- - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## CyberSeek
  - [CyberSeek](https://www.cyberseek.org/)
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
-## Penetration Testing
- - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
- - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
- - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
-## News
- - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
- - [DARKReading](https://www.darkreading.com/)
- - [Hacker News](https://news.ycombinator.com/news)
- - [MorningStar Security](https://morningstarsecurity.com/)
 ## Linux
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
  - [KALI - Kali Tools](https://www.kali.org/tools/)
+## News
+ - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
+ - [DARKReading](https://www.darkreading.com/)
+ - [Hacker News](https://news.ycombinator.com/news)
+ - [MorningStar Security](https://morningstarsecurity.com/)
+## Penetration Testing
+ - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+ - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+ - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+## SysAdmin, Audit, Network, and Security (SANS) Institue
+ - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## Training
  - [HACKTHEBOX](https://www.hackthebox.com/)
  - [Root Me](https://www.root-me.org/?lang=en)
