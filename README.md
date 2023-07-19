@@ -15,8 +15,8 @@
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 ## National Institute of Standards and Technology (NIST)
- - [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
  - [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
+ - [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 ## MITRE
 - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
 - [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/index.html)
@@ -33,8 +33,8 @@
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
- - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+ - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 ## News
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
  - [DARKReading](https://www.darkreading.com/)
@@ -44,8 +44,8 @@
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
- - [KALI - Kali Tools](https://www.kali.org/tools/)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
+ - [KALI - Kali Tools](https://www.kali.org/tools/)
 ## Tools
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CyberChef](https://cyberchef.org/)
