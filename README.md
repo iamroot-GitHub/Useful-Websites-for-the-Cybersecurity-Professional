@@ -36,6 +36,7 @@
 ## Penetration Testing
  - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+ - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
 ## News
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
  - [DARKReading](https://www.darkreading.com/)
