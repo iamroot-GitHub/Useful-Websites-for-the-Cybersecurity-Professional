@@ -1,5 +1,5 @@
-![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/b98ea2903862251db463874ebf691e61518137bf/Resources/UWFTCP_01.png)
 # Useful-Websites-for-the-Cybersecurity-Professional
+![](
 ## Table of Contents
 1.  [CISA](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#cybersecurity--infrastructure-security-agency-cisa)
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
