@@ -41,4 +41,8 @@
  - [KALI - Kali Tools](https://www.kali.org/tools/)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
 ## Tools
+ - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CyberChef](https://cyberchef.org/)
+ - [Hacking Articles - Comprehensive Guide on Dirb Tool](https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/)
+ - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/nmap-cheat-sheet/)
+ - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/wireshark-cheat-sheet/)
