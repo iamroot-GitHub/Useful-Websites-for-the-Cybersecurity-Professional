@@ -59,7 +59,7 @@
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CISCO Talos](https://talosintelligence.com/)
  - [CyberChef - simple, intuitive web app for analysing and decoding data](https://cyberchef.org/)
- - [Exploit Database](https://www.exploit-db.com/)
+ - [Exploit Database - a CVE compliant archive of public exploits and corresponding vulnerable software](https://www.exploit-db.com/)
  - [FEODOtracker](https://feodotracker.abuse.ch/)
  - [HAK5](https://shop.hak5.org/)
  - [Hacking Articles - Comprehensive Guide on Dirb Tool](https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/)
