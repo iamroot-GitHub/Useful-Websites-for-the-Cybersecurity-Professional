@@ -12,7 +12,8 @@
 9.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
 10.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
 11.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
-12.  [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#tools)
+12.  [Training](
+13.  [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#tools)
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 ## National Institute of Standards and Technology (NIST)
@@ -48,6 +49,10 @@
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
  - [KALI - Kali Tools](https://www.kali.org/tools/)
+## Training
+ - [HACKTHEBOX](https://www.hackthebox.com/)
+ - [Root Me](https://www.root-me.org/?lang=en)
+ - [TryHackMe](https://tryhackme.com/)
 ## Tools
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
  - [CyberChef](https://cyberchef.org/)
