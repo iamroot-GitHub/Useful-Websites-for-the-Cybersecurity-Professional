@@ -35,7 +35,6 @@
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
- - [KALI - Kali Tools](https://www.kali.org/tools/)
 ## News
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
  - [DARKReading](https://www.darkreading.com/)
@@ -63,6 +62,7 @@
  - [Feodo Tracker - sharing botnet C&C servers](https://feodotracker.abuse.ch/)
  - [HAK5 - Hacking Tools & Media](https://shop.hak5.org/)
  - [Hacking Articles - Comprehensive Guide on Dirb Tool](https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/)
+ - [KALI - Kali Tools](https://www.kali.org/tools/)
  - [KLOTH.NET](http://www.kloth.net/)
  - [MalwareBazaar - sharing malware samples with the infosec community](https://bazaar.abuse.ch/)
  - [monkeytype](https://monkeytype.com/)
