@@ -1,7 +1,7 @@
 # Useful-Websites-for-the-Cybersecurity-Professional
 ![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/b6a16e28892be67f6925781c448c361212706a91/Resources/UWFTCP_01.png)
 ## Table of Contents
-1.  [CISA](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#cybersecurity--infrastructure-security-agency-cisa)
+1.  [CISA](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cybersecurity--infrastructure-security-agency-cisa)
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
 3.  [Lockheed Martin](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#lockheed-martin)
 4.  [MITRE](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#mitre)
@@ -11,8 +11,8 @@
 8.  [OSINT Framework](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#osint-framework)
 9.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
 10. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
-11. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#training)
-12. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/main/README.md#tools)
+11. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
+12. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
