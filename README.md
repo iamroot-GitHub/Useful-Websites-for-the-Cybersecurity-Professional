@@ -10,7 +10,7 @@
 7.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
 8.  [OSINT Framework](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#osint-framework)
 9.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
-10. [Podcasts]
+10. [Podcasts](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#podcasts)
 11. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
 12. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
 13. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
