@@ -10,6 +10,7 @@
 8.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
 9.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
 10.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
+11.  [Tools](
 ## National Institute of Standards and Technology (NIST)
  - [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
  - [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
@@ -32,6 +33,8 @@
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 ## News
+ - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
+ - [DARKReading](https://www.darkreading.com/)
  - [Hacker News](https://news.ycombinator.com/news)
  - [MorningStar Security](https://morningstarsecurity.com/)
 ## Linux
