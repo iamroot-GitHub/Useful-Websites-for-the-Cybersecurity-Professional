@@ -51,6 +51,7 @@
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## Training
+![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/810887cc0b75f1c0212635ebbaa164b43a353f8b/Resources/UWFTCP_02.png)
  - [HACKTHEBOX](https://www.hackthebox.com/)
  - [Root Me](https://www.root-me.org/?lang=en)
  - [TryHackMe](https://tryhackme.com/)
