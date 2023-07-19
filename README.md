@@ -10,9 +10,10 @@
 7.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
 8.  [OSINT Framework](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#osint-framework)
 9.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
-10. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
-11. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
-12. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
+10. [Podcasts]
+11. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
+12. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
+13. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
@@ -46,6 +47,8 @@
  - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+## Podcasts
+ - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
 ## SysAdmin, Audit, Network, and Security (SANS) Institue
  - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 ## Training
@@ -54,12 +57,22 @@
  - [TryHackMe](https://tryhackme.com/)
 ## Tools
  - [Cheatography - Aircrack-ng Suite Cheat Sheet by itnetsec](https://cheatography.com/itnetsec/cheat-sheets/aircrack-ng-suite/)
+ - [CISCO Talos](https://talosintelligence.com/)
  - [CyberChef](https://cyberchef.org/)
  - [Exploit Database](https://www.exploit-db.com/)
+ - [FEODOtracker](https://feodotracker.abuse.ch/)
  - [HAK5](https://shop.hak5.org/)
  - [Hacking Articles - Comprehensive Guide on Dirb Tool](https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/)
+ - [KLOTH.NET](http://www.kloth.net/)
+ - [MalwareBazaar](https://bazaar.abuse.ch/)
  - [monkeytype](https://monkeytype.com/)
  - [Nmap](https://nmap.org/)
+ - [PhishTool](https://app.phishtool.com/)
+ - [SSLBL](https://sslbl.abuse.ch/)
  - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/nmap-cheat-sheet/)
  - [STATIONX - Nmap Cheat Sheet 2023](https://www.stationx.net/wireshark-cheat-sheet/)
+ - [ThreatFox](https://threatfox.abuse.ch/)
+ - [URLhaus](https://urlhaus.abuse.ch/)
+ - [urlscan.io](https://urlscan.io/)
+ - [ViewDNS.info](https://viewdns.info/)
  - [VIRUSTOTAL](https://www.virustotal.com/gui/home/upload)
