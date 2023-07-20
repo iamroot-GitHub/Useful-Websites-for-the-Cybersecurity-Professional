@@ -5,7 +5,7 @@
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
 3.  [Lockheed Martin](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#lockheed-martin)
 4.  [MITRE](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#mitre)
-5.  [Blogs]
+5.  [Blogs - fix this and all ToC links below]
 6.  [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
 7.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
 8.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
