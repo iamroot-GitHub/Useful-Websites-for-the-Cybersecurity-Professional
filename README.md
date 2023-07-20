@@ -5,15 +5,16 @@
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
 3.  [Lockheed Martin](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#lockheed-martin)
 4.  [MITRE](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#mitre)
-5.  [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
-6.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
-7.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
-8.  [OSINT Framework](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#osint-framework)
-9.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
-10. [Podcasts](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#podcasts)
-11. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
-12. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
-13. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
+5.  [Blogs]
+6.  [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
+7.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
+8.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
+9.  [OSINT Framework](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#osint-framework)
+10.  [Penetration Testing](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#penetration-testing)
+11. [Podcasts](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#podcasts)
+12. [SANS](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#sysadmin-audit-network-and-security-sans-institue)
+13. [Training](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#training)
+14. [Tools](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#tools)
 ---
 ## Cybersecurity & Infrastructure Security Agency (CISA)
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
@@ -28,6 +29,8 @@
  - [MITRE ATT&CK®](https://attack.mitre.org/)
  - [D3FEND™](https://d3fend.mitre.org/)
 ---
+## Blogs
+ - [Schneier on Security](https://www.schneier.com/)
 ## CyberSeek
  - [CyberSeek](https://www.cyberseek.org/)
 ## Linux
@@ -36,10 +39,13 @@
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
 ## News
+ - [BLEEPINGCOMPUTER](https://www.bleepingcomputer.com/)
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
  - [DARKReading](https://www.darkreading.com/)
  - [Hacker News](https://news.ycombinator.com/news)
+ - [Kerbs on Security](https://krebsonsecurity.com/)
  - [MorningStar Security](https://morningstarsecurity.com/)
+ - [threatpost](https://threatpost.com/)
 ## OSINT Framework
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
