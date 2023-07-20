@@ -50,7 +50,10 @@
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
 ![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
+ - [Akamai - Linux Red Team Persistence Techniques](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/)
+ - [Akamai - Persistence via Cron Jobs](https://www.linode.com/docs/guides/linux-red-team-persistence-techniques/#persistence-via-cron-jobs)
  - [Anon-Exploiter/SUID3NUM](https://github.com/Anon-Exploiter/SUID3NUM)
+ - [DELTA - Reverse Shell Reference](https://delta.navisec.io/reverse-shell-reference/)
  - [fieldraccoon - Linux Privilege Escalation](https://fieldraccoon.github.io/posts/Linuxprivesc/)
  - [*g0tmi1k - Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
  - [GTFOBins - Unix Binaries](https://gtfobins.github.io/)
@@ -60,7 +63,9 @@
  - [*HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [*HackTricks/Checklist - Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
  - [Linux Privilege Escalation Jutsus](https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.html)
+ - [PENETRATION TESTING LAB](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
+ - [Remote Awesome Thoughts](https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)
  - [swissky repo/PayloadsAllTheThings - Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
