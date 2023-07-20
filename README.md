@@ -50,7 +50,7 @@
  - [Anon-Exploiter/SUID3NUM](https://github.com/Anon-Exploiter/SUID3NUM)
  - [fieldraccoon](https://fieldraccoon.github.io/posts/Linuxprivesc/)
  - [Guifre Ruiz](https://guif.re/)
- - [Guifre Ruiz]([https://guif.re/](https://guif.re/linuxeop))
+ - [Guifre Ruiz - Linux Elevation of Privileges](https://guif.re/linuxeop)
  - [swissky repo/PayloadsAllTheThings - Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
  - [GTFOBins](https://gtfobins.github.io/)
  - [Linux Privilege Escalation Jutsus](https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.html)
