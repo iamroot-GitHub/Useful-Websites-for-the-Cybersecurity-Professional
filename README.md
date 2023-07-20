@@ -44,7 +44,7 @@
  - [OSINT Framework](https://osintframework.com/)
 ## Penetration Testing
 ![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
- - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+ - [g0tmi1k - Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
  - [Checklist - Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
  - [Anon-Exploiter/SUID3NUM](https://github.com/Anon-Exploiter/SUID3NUM)
