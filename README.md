@@ -46,6 +46,7 @@
 ![](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional/blob/52424c127b082533fc3a5756c7bc9c0fa53a1c16/Resources/UWFTCP_03.png)
  - [g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+ - [Anon-Exploiter/SUID3NUM](https://github.com/Anon-Exploiter/SUID3NUM)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
