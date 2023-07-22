@@ -66,6 +66,7 @@
  - [PENETRATION TESTING LAB](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
  - [Remote Awesome Thoughts](https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)
+ - [Reverse Shell Generator](https://www.revshells.com/)
  - [swissky repo/PayloadsAllTheThings - Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
 ## Podcasts
  - [BEER with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
