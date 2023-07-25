@@ -5,7 +5,7 @@
 2.  [NIST](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#national-institute-of-standards-and-technology-nist)
 3.  [Lockheed Martin](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#lockheed-martin)
 4.  [MITRE](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#mitre)
-5.  [Blogs - fix this and all ToC links below]
+5.  [Blogs](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#blogs)
 6.  [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
 7.  [Linux](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#linux)
 8.  [News](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#news)
@@ -32,7 +32,7 @@
 ## Blogs
  - [Schneier on Security](https://www.schneier.com/)
 ## CyberSeek
- - [CyberSeek](https://www.cyberseek.org/)
+ - [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
 ## Linux
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
@@ -64,6 +64,7 @@
  - [*HackTricks/Checklist - Linux Privilege Escalation](https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist)
  - [Linux Privilege Escalation Jutsus](https://amandaszampias.blogspot.com/2020/11/linux-privilege-escalation-jutsus.html)
  - [PENETRATION TESTING LAB](https://pentestlab.blog/2019/11/04/persistence-scheduled-tasks/)
+ - [pentestmonkey](https://pentestmonkey.net/)
  - [Read Team Notes - Pentesting Cheatsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets)
  - [Remote Awesome Thoughts](https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html)
  - [Reverse Shell Generator](https://www.revshells.com/)
