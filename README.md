@@ -38,6 +38,7 @@
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
  - [GURU99 - Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
  - [jctosta - Screen Cheat Sheet](https://gist.github.com/jctosta/af918e1618682638aa82)
+ - [Luong Komorebi - Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 ## News
  - [BLEEPINGCOMPUTER](https://www.bleepingcomputer.com/)
  - [Cybersecurity INSIDERS](https://www.cybersecurity-insiders.com/)
