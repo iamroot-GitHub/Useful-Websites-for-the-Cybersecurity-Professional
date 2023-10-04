@@ -31,6 +31,8 @@
 ---
 ## Blogs
  - [Schneier on Security](https://www.schneier.com/)
+## Cybersecurity
+ - [emtuls - Awesome Cyber Security List](https://github.com/emtuls/Awesome-Cyber-Security-List)
 ## CyberSeek
  - [CyberSeek](https://www.cyberseek.org/)
 ## Linux
