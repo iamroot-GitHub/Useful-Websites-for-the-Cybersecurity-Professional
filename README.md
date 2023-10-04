@@ -32,7 +32,7 @@
 ## Blogs
  - [Schneier on Security](https://www.schneier.com/)
 ## CyberSeek
- - [CyberSeek](https://github.com/iamroot-GitHub/Useful-Websites-for-the-Cybersecurity-Professional#cyberseek)
+ - [CyberSeek](https://www.cyberseek.org/)
 ## Linux
  - [GeeksforGeeks - Linux Commands](https://www.geeksforgeeks.org/linux-commands/?ref=lbp)
  - [GeeksforGeeks - Introduction to Kali Linux](https://www.geeksforgeeks.org/introduction-to-kali-linux/?ref=shm)
